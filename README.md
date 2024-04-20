@@ -27,10 +27,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 1. Azure Virtual Machine Creation:
-Created an Azure Virtual Machine with Windows 10 and 4 vCPUs named "Vm-osticket" with the username "login" and password "Password1!".
+Created an Azure Virtual Machine with Windows 10 and 4 vCPUs named "Vm-osticket" with the username "login" and password "Password1!". Signed into Remote Desktop Protocol, with the Public IP address. 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qH00Yog.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/WzXohb7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
+
+
 
 2. Install/Enable IIS and Components:
 Installed IIS in Windows with CGI, Common HTTP Features, and IIS Management Console enabled.
