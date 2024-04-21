@@ -41,10 +41,10 @@ Installed IIS in Windows with CGI, Common HTTP Features, and IIS Management Cons
 
 <br />
 <p>
-<img src="https://imgur.com/uPhLElu.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/i8vglHu.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/nnVLUxd.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/1qXOBVr.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uPhLElu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/i8vglHu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/nnVLUxd.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/1qXOBVr.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 3. Install PHP Manager for IIS and Rewrite Module:
@@ -62,20 +62,20 @@ Created the directory C:\PHP and downloaded PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-
 Installed VC_redist.x86.exe.
 
 <p>
-<img src="https://imgur.com/jzED3pY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/CY8ES70.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/gHVf83l.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/RNS9xN8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jzED3pY.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/CY8ES70.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gHVf83l.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RNS9xN8.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 5. Install MySQL:
 Downloaded and installed MySQL 5.5.62 (mysql-5.5.62-win32.msi) with the standard configuration and password "Password1".
 
 <p>
-<img src="https://imgur.com/B7TZ3zX.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/0ucO65U.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/0nzD0Dk.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/JvCdJoE.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/B7TZ3zX.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0ucO65U.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0nzD0Dk.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/JvCdJoE.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -96,9 +96,9 @@ Downloaded osTicket from the installation files folder, extracted and copied the
 Reloaded IIS.
 
 <p>
-<img src="https://imgur.com/lVAp7cl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/sarTqbB.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/ohiJWqc.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/lVAp7cl.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/sarTqbB.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ohiJWqc.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 
@@ -109,10 +109,10 @@ Refreshed the osTicket site in the browser.
 
 
 <p>
-<img src="https://imgur.com/f3xCwhu.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/H6qWZl4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/iGRB0oG.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://imgur.com/9eyPHtR.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/f3xCwhu.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/H6qWZl4.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/iGRB0oG.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/9eyPHtR.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 
